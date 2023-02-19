@@ -230,8 +230,8 @@ I am a student, currently pursing undergraduate degree . From very early on in m
 
 ### Contact me:
 [![Github](https://img.shields.io/github/followers/killerboychetan?label=Follow&style=social)](https://github.com/killerboychetan)[![Linkedin](https://img.shields.io/badge/-Chetan%20Patel-blue?style=flat-square&logo=linkedin&logoColor=white&link=http://www.linkedin.com/in/chetan-p-ba011a223/)](http://www.linkedin.com/in/chetan-p-ba011a223/)[![Mail](https://img.shields.io/badge/-lovwanshichetan@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=http://www.linkedin.com/in/chetan-p-ba011a223)](mailto:lovwanshichetan@outlook.com)
-<!--
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:chetanpatel@hotmail.com)](mailto:chetanpatel@hotmail.com)
--->
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parulchaddha" alt="parulchaddha" /> </p> <br />
+<!-- [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:chetanpatel@hotmail.com)](mailto:chetanpatel@hotmail.com) -->
 
 ⭐️ From [Chetan Patel](https://github.com/killerboychetan)
