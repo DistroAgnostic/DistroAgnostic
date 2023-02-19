@@ -1,21 +1,3 @@
-<!--
-### Hi there 👋 
--->
-
-<!--
-**killerboychetan/killerboychetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Welcome to my github! 👋
 <div align="center">
 ❤️ Programming | 🖤 Gaming | 💙 Anime
@@ -56,17 +38,6 @@ I am a student, currently pursing undergraduate degree . From very early on in m
 <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
 
 </td>
-
-
-<!--
-<td width="25%" align="center">
-
-<span><strong>Rust</strong></span><br/>
-
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/rust.svg">
-
-</td>
--->
 
 <td width="25%" align="center">
 
@@ -118,7 +89,6 @@ I am a student, currently pursing undergraduate degree . From very early on in m
 
 </td>
 
-<!--
 <td align="center">
 
 <span><strong>Typescript</strong></span><br/>
@@ -126,7 +96,6 @@ I am a student, currently pursing undergraduate degree . From very early on in m
 <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
 
 </td>
--->
 
 <td align="center">
 
@@ -241,7 +210,8 @@ I am a student, currently pursing undergraduate degree . From very early on in m
 ### Contact me:
 [![Github](https://img.shields.io/github/followers/killerboychetan?label=Follow&style=social)](https://github.com/killerboychetan)[![Linkedin](https://img.shields.io/badge/-Chetan%20Patel-blue?style=flat-square&logo=linkedin&logoColor=white&link=http://www.linkedin.com/in/chetan-p-ba011a223/)](http://www.linkedin.com/in/chetan-p-ba011a223/)[![Mail](https://img.shields.io/badge/-lovwanshichetan@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=http://www.linkedin.com/in/chetan-p-ba011a223)](mailto:lovwanshichetan@outlook.com)
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parulchaddha" alt="parulchaddha" /> </p> <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=killerboychetan" alt="killerboychetan" />
+<img src="https://img.shields.io/github/stars/killerboychetan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> </p> <br/>
 <!-- [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:chetanpatel@hotmail.com)](mailto:chetanpatel@hotmail.com) -->
 
 ### 🐍 Watch Snake eating my contribution:
