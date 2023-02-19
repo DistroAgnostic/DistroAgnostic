@@ -232,10 +232,19 @@ I am a student, currently pursing undergraduate degree . From very early on in m
 
 <img alt="Chetan Patel's github stats" src="https://github-readme-stats.vercel.app/api?username=killerboychetan&&show_icons=true&title_color=7d14d8&icon_color=00ffff&text_color=daf7dc&bg_color=151515" >
 
+<!-- [![Chetan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=killerboychetan&theme=dracula)](https://github.com/killerboychetan/github-readme-activity-graph) -->
+
+<!--&theme=buefy&bg_color=0D1117"/></a> -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerboychetan&layout=compact&theme=react&hide_border=false" /></a> -->
+<br /> 
+
 ### Contact me:
 [![Github](https://img.shields.io/github/followers/killerboychetan?label=Follow&style=social)](https://github.com/killerboychetan)[![Linkedin](https://img.shields.io/badge/-Chetan%20Patel-blue?style=flat-square&logo=linkedin&logoColor=white&link=http://www.linkedin.com/in/chetan-p-ba011a223/)](http://www.linkedin.com/in/chetan-p-ba011a223/)[![Mail](https://img.shields.io/badge/-lovwanshichetan@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=http://www.linkedin.com/in/chetan-p-ba011a223)](mailto:lovwanshichetan@outlook.com)
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parulchaddha" alt="parulchaddha" /> </p> <br />
 <!-- [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:chetanpatel@hotmail.com)](mailto:chetanpatel@hotmail.com) -->
+
+### 🐍 Watch Snake eating my contribution:
+![snake svg](https://github.com/killerboychetan/killerboychetan/blob/output/github-contribution-grid-snake.svg)
 
 ⭐️ From [Chetan Patel](https://github.com/killerboychetan)
