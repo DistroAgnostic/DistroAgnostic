@@ -1,6 +1,10 @@
 # Welcome to my github! 👋
 <div align="center">
-❤️ Programming | 🖤 Gaming | 💙 Anime
+<!-- ❤️ Programming | 🖤 Gaming | 💙 Anime -->
+<h4> Competitive Programmer | Tech Enthusiast | Python Programmer |
+<br> <br>
+<centre> Student @ IIPS, Davv </centre>
+</h4>
 </div>
 <br>
 
@@ -25,11 +29,19 @@ I am a student, currently pursing undergraduate degree . From very early on in m
 
 <td width="25%" align="center">
 
+<span><strong>C</strong></span><br/>
+
+<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+
+</td>
+
+<td width="25%" align="center">
+
 <span><strong>C++</strong></span><br/>
 
 <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
 
-</td>
+<!-- </td>
 
 <td width="25%" align="center">
 
@@ -37,7 +49,7 @@ I am a student, currently pursing undergraduate degree . From very early on in m
 
 <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
 
-</td>
+</td> -->
 
 <td width="25%" align="center">
 
@@ -209,11 +221,10 @@ I am a student, currently pursing undergraduate degree . From very early on in m
 
 ### Contact me:
 [![Github](https://img.shields.io/github/followers/killerboychetan?label=Follow&style=social)](https://github.com/killerboychetan)[![Linkedin](https://img.shields.io/badge/-Chetan%20Patel-blue?style=flat-square&logo=linkedin&logoColor=white&link=http://www.linkedin.com/in/chetan-p-ba011a223/)](http://www.linkedin.com/in/chetan-p-ba011a223/)[![Mail](https://img.shields.io/badge/-lovwanshichetan@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=http://www.linkedin.com/in/chetan-p-ba011a223)](mailto:lovwanshichetan@outlook.com)
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=killerboychetan" alt="killerboychetan" />
-<img src="https://img.shields.io/github/stars/killerboychetan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> </p> <br/>
+<!-- Profile Views & Stars -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=killerboychetan" alt="killerboychetan"/>
+<img src="https://img.shields.io/github/stars/killerboychetan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> </p> -->
 <!-- [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:chetanpatel@hotmail.com)](mailto:chetanpatel@hotmail.com) -->
-
 ### 🐍 Watch Snake eating my contribution:
 ![snake svg](https://github.com/killerboychetan/killerboychetan/blob/output/github-contribution-grid-snake.svg)
 
