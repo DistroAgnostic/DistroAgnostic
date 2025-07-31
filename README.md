@@ -66,10 +66,10 @@ I am a student, currently pursing undergraduate degree . From very early on in m
 </table>
 
 </center>
-
+<!--
 - **Frontend Development** : 
 
-<center>
+<!-- <center>
 
 <table>
 
@@ -116,7 +116,7 @@ I am a student, currently pursing undergraduate degree . From very early on in m
 <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 
 </td>
-
+-->
 <!--
 <td align="center">
 
