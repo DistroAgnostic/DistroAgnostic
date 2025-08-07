@@ -1,6 +1,6 @@
 # Welcome to my github! 👋
 <div align="center">
-<!-- ❤️ Programming | 🖤 Gaming | 💙 Anime -->
+<!-- 👨‍💻 Programming | 🎮 Gaming | 👾 Anime -->
 <h4> Competitive Programmer | Tech Enthusiast | Python Programmer |
 <br> <br>
 <centre> Student @ IIPS, Davv </centre>
@@ -13,57 +13,28 @@
 <img align='right' src='https://64.media.tumblr.com/e1e8233fe28f4b71b0fb980dd16f44e7/7ad6e582a05cd4ce-39/s1280x1920/fe591cc780748d4ad6a5e975bdc2c7f2e96a838a.jpg' width='200"'>  
 
 ## About me :
-I am a student, currently pursing undergraduate degree . From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
-
+I am a student, currently pursing undergraduate degree . From very early on in my life, I started to fall in love with technology 🤩. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
 
 <center>
-
 <table>
-
 <tbody>
-
 <tr>
-
 <td width="25%" align="center">
-
 <span><strong>C</strong></span><br/>
-
 <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
-
 </td>
-
 <td width="25%" align="center">
-
 <span><strong>C++</strong></span><br/>
-
 <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
-
-<!-- </td>
-
 <td width="25%" align="center">
-
-<span><strong>Java</strong></span><br/>
-
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-
-</td> -->
-
-<td width="25%" align="center">
-
 <span><strong>Python</strong></span><br/>
-
 <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-
 </td>
-
 </tr>
-
 </tbody>
-
 </table>
-
 </center>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -84,38 +55,25 @@ I am a student, currently pursing undergraduate degree . From very early on in m
     
 -->
 
-
 </tr>
-
 </tbody>
-
 </table>
-
 </center>
-
+<!--
 ## What I want to do next :thinking:
 -  At least delve into AI and ML.
 -  Cybersecurity and Ethical Hacking
 -  Qualify for GSOC and ICPC World Finals!
 -  Unlock the secret to the universe :rofl:
-
+-->
 ## Some stats about me :
 
 <img alt="DistroAgnostics github stats" src="https://github-readme-stats.vercel.app/api?username=DistroAgnostic&&show_icons=true&title_color=7d14d8&icon_color=00ffff&text_color=daf7dc&bg_color=151515" >
-
-[![Chetan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DistroAgnostic&theme=dracula)](https://github.com/DistroAgnostic/github-readme-activity-graph) -->
-
-<!--&theme=buefy&bg_color=0D1117"/></a> -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DistroAgnostic&layout=compact&theme=react&hide_border=false" /></a>
-<br /> 
-
-### Contact me:
-[![Github](https://img.shields.io/github/followers/DistroAgnostic?label=Follow&style=social)](https://github.com/DistroAgnostic)[![Linkedin](https://img.shields.io/badge/-Chetan%20Patel-blue?style=flat-square&logo=linkedin&logoColor=white&link=http://www.linkedin.com/in/justchetan/)](http://www.linkedin.com/in/justchetan/)[![Mail](https://img.shields.io/badge/-chetancreative11@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=http://www.linkedin.com/in/chetan-p-ba011a223)](mailto:chetancreative11@gmail.com)
-<!-- Profile Views & Stars -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DistroAgnostic" alt="DistroAgnostic"/>
-<img src="https://img.shields.io/github/stars/DistroAgnostic?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> </p> -->
-<!-- [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:chetanpatel@hotmail.com)](mailto:chetanpatel@hotmail.com) -->
+<!--
+[![Chetan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DistroAgnostic&theme=dracula)](https://github.com/DistroAgnostic/github-readme-activity-graph)
+<!--
 ### 🐍 Watch Snake eating my contribution:
-![snake svg](https://github.com/DistroAgnostic/DistroAgnostic/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/DistroAgnostic/DistroAgnostic/blob/output/github-contribution-grid-snake.svg) 
+-->
 
 ⭐️ From [DistroAgnostic](https://github.com/DistroAgnostic?tab=repositories)
